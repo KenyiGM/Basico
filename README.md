@@ -1,2 +1,2 @@
 # Proyecto-Ciclo-I
-La mayoria es pasatiempo, son archivos de python, es una programación basica hecho para aprender y para programar.
+La mayoria de archivos son pasatiempos que son archivos de python y estan hechos con una programación basica para aprender programar.
