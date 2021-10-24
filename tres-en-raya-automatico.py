@@ -114,8 +114,6 @@ while jugar:
                 TurnoDeJuego(jugador)
                 jugador="X"
 
-            
-
         else:
             LimpiarTablero()
             break
