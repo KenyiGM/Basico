@@ -32,17 +32,17 @@ def LimpiarTablero():
 def TurnoDeJuego(jugar):
 
     contador = 0
-    Correcto = False
+    Jugada_Valida = False
     
     try:
-        while Correcto==False:
+        while Jugada_Valida==False:
 
             posicionX = randint(0,2)
             posicionY = randint(0,2)
             
             if(tablero[posicionX][posicionY]==""):
                 tablero[posicionX][posicionY]= jugar
-                Correcto=True
+                Jugada_Valida=True
                 contador +=1
             else:
                 #print("ya está ocupada por",tablero[posicionX][posicionY])
