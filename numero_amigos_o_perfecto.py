@@ -1,4 +1,4 @@
-#Este programa intenta encontrar todos los numeros Amigos o Perfectos
+#Este programa intenta encontrar todos los numeros Amigos o Perfectos !!Cuidado es Automatico
 def main():
     numero = 0
     while numero >= 0:
