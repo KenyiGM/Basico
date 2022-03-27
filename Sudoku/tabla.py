@@ -13,7 +13,7 @@
 
 lista_numeros = [1,2,3,4,5,6,7,8,9]
 
-# hay 3 formas de comprobar si ganaste
+# hay 3 formas de comprobar el llenado de los numeros
 # horizontal , vertical y bloque
 
 def columna(tabla):
